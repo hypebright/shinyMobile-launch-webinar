@@ -1,0 +1,4 @@
+project:
+  title: "Launch Webinar"
+  type: website
+  output-dir: docs
