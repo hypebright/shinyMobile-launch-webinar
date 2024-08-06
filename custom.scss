@@ -1,0 +1,49 @@
+/*-- scss:defaults --*/
+$theme-darkblue: #154750;
+$theme-blue: #178FA0;
+$theme-white: #F2F2F2;
+$theme-gray: #3E5B64;
+$theme-green: #C7BB42;
+$theme-darkgrey: #04262F;
+
+$body-bg: $theme-white;
+$link-color: $theme-blue;
+$body-color: $theme-darkgrey;
+$presentation-heading-color: $theme-darkgrey;
+
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed:400,700');
+
+$presentation-heading-font: 'Barlow Condensed', sans-serif;
+$font-family-sans-serif: 'Barlow Condensed', sans-serif;
+
+.reveal .slide code {
+  color: $theme-darkblue;
+}
+
+.reveal h2 {
+  padding-bottom: 40px;
+}
+
+.reveal .slide ul {
+  list-style-type: square;
+}
+.reveal .slide ul li::marker {
+  color: $theme-blue;
+}
+
+.reveal .footer {
+  height: 10%;
+  max-height: 50px;
+  min-height: 20px;
+  bottom: 0px !important;
+  background-color: $theme-green;
+  z-index: 1 !important;
+}
+
+.reveal .footer a {
+  color: $theme-darkblue !important;
+}
+
+.reveal .footer p {
+  margin-top: 0.5em;
+}
