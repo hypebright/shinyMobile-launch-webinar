@@ -18,7 +18,7 @@ shinyMobile 2.0.0 launch webinar 🚀
 
 <img src="images/shinyMobile.png" style="float: right; margin-top: -17%;">
 
-# Getting to know each other ✨ 
+# Who are we? ✨ 
 
 # Program
 
@@ -35,13 +35,34 @@ Storytime: the birth of `shinyMobile` 📖
 # What's new in `shinyMobile` 2.0.0?
 
 - **New look & feel** 💅
+- **Better list styling**
 - **New components**
-- **New layout**
+- **New f7Treeview & f7Form**
+- **Better documentation**
+- **New `f7MultiLayout`**
 
-# R and Shiny courses at Athlyticz
+All the [documentation](https://shinymobile.rinterface.com) contains shinylive examples!
 
-- ProductioniZing Shiny
-- CustomiZing WidgetZ
-- BreeZing Through the Tidyverse
+# SlamStats
+
+- The SlamStats app displays women's basketball data sourced from the Women's National Basketball Association (WNBA) and Entertainment and Sports Programming Network (ESPN).
+
+- The data is accessed using the `wehoop` package, part of the `sportsdataverse` suite of packages.
+
+# SlamStats
+
+- The data contains data up to the 2023 season, but also provides access to live matches.
+
+- There's a home page with RSS feed, a ranking page, a team page, a player page, and a live page 🏀.
+
+# SlamStats
+
+A [deployed version](https://hypebright-apps.shinyapps.io/SlamStats) of the app (PWA) is available, which can be installed on your mobile device.
+
+# R and Shiny courses at AthlyticZ
+
+- [ProductioniZing Shiny](https://athlyticz.com/shiny-ii)
+- [CustomiZing WidgetZ](https://athlyticz.com/shiny-iii)
+- [BreeZing Through the Tidyverse](https://athlyticz.com/tidy-i)
 
 # Ask us anything! 🎤
